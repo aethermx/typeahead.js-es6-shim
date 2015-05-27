@@ -1,6 +1,6 @@
 {
   "name": "typeahead.js-es6-shim",
-  "version": "0.10.5",
+  "version": "0.11.1",
   "homepage": "https://github.com/aethermx/typeahead.js-es6-shim",
   "authors": [
     "Gastón I. Silva E. @givanse"
@@ -19,6 +19,6 @@
     "tests"
   ],
   "dependencies": {
-    "typeahead.js": "0.10.5"
+    "typeahead.js": "0.11.1"
   }
 }
